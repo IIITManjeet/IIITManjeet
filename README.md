@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IIITManjeet
 - 👀 I’m interested in ...Competitative Programming and Web Development and still exploring different things.
-- 🌱 I’m currently learning ...JS and React Js
+- 🌱 I’m currently learning ...JS and React Js , Node.js , Express.js , Mongodb and Mongoose.
 - 💞️ I’m looking to collaborate on ...Web Dev Projects.
 - 📫 How to reach me ...contact manjeetpathak2003@gmail.com
 <!---
