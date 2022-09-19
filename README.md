@@ -7,5 +7,5 @@
 IIITManjeet/IIITManjeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<center><img src="https://github-readme-stats.vercel.app/api?username=IIITManjeet&count_private=true"/></center><br>
-<center><img src="https://activity-graph.herokuapp.com/graph?username=IIITManjeet&theme=dracula)"/></center>
+<centre><img src="https://github-readme-stats.vercel.app/api?username=IIITManjeet&count_private=true"/></centre><br>
+<centre><img src="https://activity-graph.herokuapp.com/graph?username=IIITManjeet&theme=dracula)"/></centre>
