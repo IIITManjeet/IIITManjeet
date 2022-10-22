@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 <centre><img src="https://github-readme-stats.vercel.app/api?username=IIITManjeet&count_private=true"/></centre><br>
 <centre><img src="https://activity-graph.herokuapp.com/graph?username=IIITManjeet&theme=dracula)"/></centre>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IIITManjeet&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
