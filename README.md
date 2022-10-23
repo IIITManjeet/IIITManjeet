@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
-<a href="https://piyushmalhotra.netlify.app/">
+<a href="#">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
 <a href="https://www.linkedin.com/in/manjeet-pathak-896638223/">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+  <img src= "[https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp](https://media1.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif?cid=ecf05e47k9sa5fh0c8zya2p5us4bmepcgx5nk5sowcaj8bp3&rid=giphy.gif&ct=g)">
 </p>
 <!---
 IIITManjeet/IIITManjeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
