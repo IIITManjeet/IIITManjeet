@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @IIITManjeet
-- 👀 I’m interested in ...Competitative Programming and Web Development and still exploring different things.
-- 🌱 I’m currently learning ...JS and React Js , Node.js , Express.js , Mongodb and Mongoose.
-- 💞️ I’m looking to collaborate on ...Web Dev Projects.
-- 📫 How to reach me ...contact manjeetpathak2003@gmail.com
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
@@ -10,7 +5,11 @@
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
-
+- 👋 Hi, I’m @IIITManjeet<br>
+- 👀 I’m interested in ...Competitative Programming and Web Development and still exploring different things.<br>
+- 🌱 I’m currently learning ...JS and React Js , Node.js , Express.js , Mongodb and Mongoose.<br>
+- 💞️ I’m looking to collaborate on ...Web Dev Projects.<br>
+- 📫 How to reach me ...contact manjeetpathak2003@gmail.com<br>
 <p align="center">
 <a href="#">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
@@ -35,10 +34,7 @@
 <p align="center">
   <img src= "https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif">
 </p>
-<!---
-IIITManjeet/IIITManjeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <centre><img src="https://github-readme-stats.vercel.app/api?username=IIITManjeet&count_private=true"/></centre><br>
 <centre><img src="https://activity-graph.herokuapp.com/graph?username=IIITManjeet&theme=dracula)"/></centre>
+(https://github.com/IIITManjeet/IIITManjeet/blob/output/github-contribution-grid-snake.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IIITManjeet&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
