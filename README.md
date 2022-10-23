@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning ...JS and React Js , Node.js , Express.js , Mongodb and Mongoose.
 - 💞️ I’m looking to collaborate on ...Web Dev Projects.
 - 📫 How to reach me ...contact manjeetpathak2003@gmail.com
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <!---
 IIITManjeet/IIITManjeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
