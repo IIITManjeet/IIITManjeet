@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning ...JS and React Js , Node.js , Express.js , Mongodb and Mongoose.<br>
 - 💞️ I’m looking to collaborate on ...Web Dev Projects.<br>
 - 📫 How to reach me ...contact manjeetpathak2003@gmail.com<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IIITManjeet&label=Profile%20views&color=0e75b6&style=flat" alt="IIITManjeet" /> </p>
 <p align="center">
 <a href="#">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
@@ -34,5 +35,7 @@
 <p align="center">
   <img src= "https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif">
 </p>
-<centre><img src="https://github-readme-stats.vercel.app/api?username=IIITManjeet&count_private=true"/></centre><br>
-<centre><img src="https://activity-graph.herokuapp.com/graph?username=IIITManjeet&theme=dracula)"/></centre>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IIITManjeet&theme=nightowl" alt="IIITManjeet" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IIITManjeet&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="IIITManjeet" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IIITManjeet&count_private=true"/></p><br>
+<center><img src="https://activity-graph.herokuapp.com/graph?username=IIITManjeet&theme=dracula)"/></center>
