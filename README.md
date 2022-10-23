@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src= "[https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp](https://media1.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif?cid=ecf05e47k9sa5fh0c8zya2p5us4bmepcgx5nk5sowcaj8bp3&rid=giphy.gif&ct=g)">
+  <img src= "https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif">
 </p>
 <!---
 IIITManjeet/IIITManjeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
