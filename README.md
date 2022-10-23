@@ -36,5 +36,4 @@
 </p>
 <centre><img src="https://github-readme-stats.vercel.app/api?username=IIITManjeet&count_private=true"/></centre><br>
 <centre><img src="https://activity-graph.herokuapp.com/graph?username=IIITManjeet&theme=dracula)"/></centre>
-(https://github.com/IIITManjeet/IIITManjeet/blob/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
