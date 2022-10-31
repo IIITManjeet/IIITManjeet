@@ -31,7 +31,6 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
-
 <p align="center">
   <img src= "https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif">
 </p>
@@ -39,4 +38,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IIITManjeet&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="IIITManjeet" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IIITManjeet&count_private=true"/></p><br>
 <center><img src="https://activity-graph.herokuapp.com/graph?username=IIITManjeet&theme=dracula)"/></center>
-[![@manjeetpathak9's Holopin board](https://holopin.me/manjeetpathak9)](https://holopin.io/@manjeetpathak9)
