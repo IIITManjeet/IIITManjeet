@@ -5,7 +5,7 @@
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
-- 👋 Hi, I’m @IIITManjeet<br>
+- 👋 Hello, I’m @IIITManjeet<br>
 - 👀 I’m interested in ...Competitative Programming and Web Development and still exploring different things.<br>
 - 🌱 I’m currently learning ...JS and React Js , Node.js , Express.js , Mongodb and Mongoose.<br>
 - 💞️ I’m looking to collaborate on ...Web Dev Projects.<br>
