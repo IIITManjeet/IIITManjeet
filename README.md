@@ -21,7 +21,7 @@
 <a href="#">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
-<a href="#">
+<a href="https://dev.to/iiitmanjeet">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
 <a href="https://twitter.com/ManjeetPathak06">
