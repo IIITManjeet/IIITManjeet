@@ -7,7 +7,7 @@
 </h1>
 - 👋 Hello, I’m @IIITManjeet<br>
 - 👀 I’m interested in ...Competitative Programming and Web Development and still exploring different things.<br>
-- 🌱 I’m currently learning ...JS and React Js , Node.js , Express.js , Mongodb and Mongoose.<br>
+- 🌱 I’m currently learning ...JS and React Js , Node.js , Express.js , Mongodb, NestJs and Web3.<br>
 - 💞️ I’m looking to collaborate on ...Web Dev Projects.<br>
 - 📫 How to reach me ...contact manjeetpathak2003@gmail.com<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IIITManjeet&label=Profile%20views&color=0e75b6&style=flat" alt="IIITManjeet" /> </p>
@@ -37,6 +37,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IIITManjeet&theme=nightowl" alt="IIITManjeet" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IIITManjeet&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="IIITManjeet" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IIITManjeet&count_private=true"/></p><br>
-<center><img src="https://activity-graph.herokuapp.com/graph?username=IIITManjeet&theme=dracula)"/></center>
+
 
 [![@manjeetpathak9's Holopin board](https://holopin.me/manjeetpathak9)](https://holopin.io/@manjeetpathak9)
