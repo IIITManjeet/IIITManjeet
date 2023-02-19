@@ -38,5 +38,12 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IIITManjeet&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="IIITManjeet" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IIITManjeet&count_private=true"/></p><br>
 
+### ⚡ Github Stats
+ <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=IIITManjeet&theme=darkhub"><br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IIITManjeet&theme=solarized_dark"  display=block width=100% height=auto alt="1">
+<br><br>
+</p>
+
 
 [![@manjeetpathak9's Holopin board](https://holopin.me/manjeetpathak9)](https://holopin.io/@manjeetpathak9)
