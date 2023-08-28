@@ -45,7 +45,6 @@
 <br><br>
 </p>
 
-[![Manjeet's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IIITManjeet&theme=tokyo-night)](https://github.com/IIITManjeet/github-readme-activity-graph)
 
 
 [![@manjeetpathak9's Holopin board](https://holopin.me/manjeetpathak9)](https://holopin.io/@manjeetpathak9)
